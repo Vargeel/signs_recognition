@@ -1,0 +1,181 @@
+antoine.larreche@ukmac-C02QK5YBG8WP:~/Downloads/CV_ML_Excersise_Signs/sign_classifier $ ipython
+Python 2.7.11 |Anaconda custom (x86_64)| (default, Dec  6 2015, 18:57:58)
+Type "copyright", "credits" or "license" for more information.
+
+IPython 4.1.2 -- An enhanced Interactive Python.
+?         -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help      -> Python's own help system.
+object?   -> Details about 'object', use 'object??' for extra details.
+
+In [1]: %run signs_classifier.py
+Training accuracy: 0.11328125
+best result :
+0.0703518
+at epoch :
+20
+Validation accuracy: 0.0703517571092
+
+20
+Training accuracy: 0.11328125
+best result :
+0.115578
+at epoch :
+40
+Validation accuracy: 0.115577891469
+
+40
+Training accuracy: 0.4140625
+best result :
+0.39196
+at epoch :
+60
+Validation accuracy: 0.391959786415
+
+60
+Training accuracy: 0.671875
+best result :
+0.547739
+at epoch :
+80
+Validation accuracy: 0.547738671303
+
+80
+Training accuracy: 0.7109375
+best result :
+0.708543
+at epoch :
+100
+Validation accuracy: 0.708542704582
+
+100
+Training accuracy: 0.83203125
+best result :
+0.743719
+at epoch :
+120
+Validation accuracy: 0.74371856451
+
+120
+Training accuracy: 0.85546875
+best result :
+0.79397
+at epoch :
+140
+Validation accuracy: 0.793969869614
+
+140
+Training accuracy: 0.859375
+best result :
+0.829146
+at epoch :
+160
+Validation accuracy: 0.829145729542
+
+160
+Training accuracy: 0.8984375
+Validation accuracy: 0.829145729542
+
+180
+Training accuracy: 0.89453125
+best result :
+0.854271
+at epoch :
+200
+Validation accuracy: 0.854271352291
+
+200
+Training accuracy: 0.9375
+best result :
+0.869347
+at epoch :
+220
+Validation accuracy: 0.869346737862
+
+220
+Training accuracy: 0.93359375
+Validation accuracy: 0.859296500683
+
+240
+Training accuracy: 0.9375
+best result :
+0.884422
+at epoch :
+260
+Validation accuracy: 0.884422123432
+
+260
+Training accuracy: 0.921875
+best result :
+0.904523
+at epoch :
+280
+Validation accuracy: 0.90452259779
+
+280
+Training accuracy: 0.89453125
+best result :
+0.909548
+at epoch :
+300
+Validation accuracy: 0.909547746181
+
+300
+Training accuracy: 0.91796875
+Validation accuracy: 0.889447212219
+
+320
+Training accuracy: 0.96484375
+best result :
+0.914573
+at epoch :
+340
+Validation accuracy: 0.914572834969
+
+340
+Training accuracy: 0.93359375
+Validation accuracy: 0.90452259779
+
+360
+Training accuracy: 0.94921875
+best result :
+0.929648
+at epoch :
+380
+Validation accuracy: 0.929648220539
+
+380
+Training accuracy: 0.9609375
+Validation accuracy: 0.924623131752
+
+400
+Training accuracy: 0.9765625
+best result :
+0.934673
+at epoch :
+420
+Validation accuracy: 0.934673368931
+
+420
+Training accuracy: 0.97265625
+Validation accuracy: 0.91959798336
+
+440
+Training accuracy: 0.96484375
+Validation accuracy: 0.929648220539
+
+460
+Training accuracy: 0.98046875
+best result :
+0.944724
+at epoch :
+480
+Validation accuracy: 0.94472360611
+
+480
+Training accuracy: 0.95703125
+best result :
+0.949749
+at epoch :
+500
+Validation accuracy: 0.949748754501

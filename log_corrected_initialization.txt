@@ -1,0 +1,117 @@
+antoine.larreche@ukmac-C02QK5YBG8WP:~/Downloads/CV_ML_Excersise_Signs/sign_classifier $ ipython
+Python 2.7.11 |Anaconda custom (x86_64)| (default, Dec  6 2015, 18:57:58)
+Type "copyright", "credits" or "license" for more information.
+
+IPython 4.1.2 -- An enhanced Interactive Python.
+?         -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help      -> Python's own help system.
+object?   -> Details about 'object', use 'object??' for extra details.
+
+In [1]: %run signs_classifier.py
+Training accuracy: 0.66015625
+Validation accuracy: 0.584999978542
+
+20
+Training accuracy: 0.79296875
+Validation accuracy: 0.759999990463
+
+40
+Training accuracy: 0.92578125
+Validation accuracy: 0.790000021458
+
+60
+Training accuracy: 0.921875
+Validation accuracy: 0.829999983311
+
+80
+Training accuracy: 0.94921875
+Validation accuracy: 0.865000009537
+
+100
+Training accuracy: 0.9609375
+Validation accuracy: 0.889999985695
+
+120
+Training accuracy: 0.9609375
+Validation accuracy: 0.839999973774
+
+140
+Training accuracy: 0.96484375
+best result :
+0.925
+at epoch :
+160
+Validation accuracy: 0.925000011921
+
+160
+Training accuracy: 0.9921875
+best result :
+0.93
+at epoch :
+180
+Validation accuracy: 0.930000007153
+
+180
+Training accuracy: 1.0
+best result :
+0.935
+at epoch :
+200
+Validation accuracy: 0.935000002384
+
+200
+Training accuracy: 0.99609375
+Validation accuracy: 0.930000007153
+
+220
+Training accuracy: 1.0
+Validation accuracy: 0.930000007153
+
+240
+Training accuracy: 1.0
+best result :
+0.955
+at epoch :
+260
+Validation accuracy: 0.954999983311
+
+260
+Training accuracy: 1.0
+Validation accuracy: 0.954999983311
+
+280
+Training accuracy: 1.0
+Validation accuracy: 0.954999983311
+
+300
+Training accuracy: 1.0
+Validation accuracy: 0.954999983311
+
+320
+Training accuracy: 1.0
+best result :
+0.96
+at epoch :
+340
+Validation accuracy: 0.959999978542
+
+340
+Training accuracy: 1.0
+Validation accuracy: 0.954999983311
+
+360
+Training accuracy: 1.0
+Validation accuracy: 0.959999978542
+
+380
+Training accuracy: 1.0
+Validation accuracy: 0.954999983311
+
+400
+Training accuracy: 1.0
+best result :
+0.97
+at epoch :
+420
+Validation accuracy: 0.97000002861
